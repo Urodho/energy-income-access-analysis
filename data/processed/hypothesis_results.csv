@@ -1,0 +1,4 @@
+test,statistic,p_value,decision_at_0.05
+"Welch t-test: renewables share, Low vs High income",1.5818216817879092,0.116138962905573,Fail to reject H0
+Chi-square: income group vs high renewables,2.7942163100057833,0.2473111162492815,Fail to reject H0
+"Two-proportion z-test: full access, high vs other renewables",-1.6874196116796745,0.09152269541648472,Fail to reject H0
